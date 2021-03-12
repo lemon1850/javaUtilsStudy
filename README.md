@@ -14,7 +14,8 @@
 9. opencsv [wiki](http://opencsv.sourceforge.net/)
 10. JsonPath
 11. tink google加密组件 [github](https://github.com/google/tink)
-12  validate 
+12.  validate 
+13. jackson [wiki](https://github.com/FasterXML/jackson-databind)
 ### Test
 1. junit5
 2. AssertJ
