@@ -16,6 +16,8 @@
 11. tink google加密组件 [github](https://github.com/google/tink)
 12.  validate 
 13. jackson [wiki](https://github.com/FasterXML/jackson-databind)
+14. log4j2 [wiki](https://logging.apache.org/log4j/2.x/manual/index.html)
+
 ### Test
 1. junit5
 2. AssertJ
