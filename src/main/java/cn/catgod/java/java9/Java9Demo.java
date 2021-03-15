@@ -6,4 +6,5 @@ package cn.catgod.java.java9;
  * @date 2021/3/15
  */
 public class Java9Demo {
+
 }

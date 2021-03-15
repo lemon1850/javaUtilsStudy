@@ -6,4 +6,5 @@ package cn.catgod.java.java11;
  * @date 2021/3/15
  */
 public class Java11Demo {
+
 }
