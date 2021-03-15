@@ -20,8 +20,9 @@
 9. opencsv [wiki](http://opencsv.sourceforge.net/)
 10. JsonPath [github&wiki](https://github.com/json-path/JsonPath) [demo](https://www.baeldung.com/guide-to-jayway-jsonpath)
 11. tink google加密组件 [github](https://github.com/google/tink)
-12.  validate [wiki](http://hibernate.org/validator/)
-13. jackson [wiki](https://github.com/FasterXML/jackson-databind)
+12. validate [wiki](http://hibernate.org/validator/)
+13. jackson [wiki](https://github.com/FasterXML/jackson-databind) [demo](https://www.baeldung.com/jackson)
+    jackson-datatype-jsr310 [github](https://github.com/FasterXML/jackson-modules-java8) [wiki](https://github.com/FasterXML/jackson-modules-java8/tree/master/datetime)
 14. log4j2 [wiki](https://logging.apache.org/log4j/2.x/manual/index.html)
 15. caffeine CaffeineCacheDemo [wiki](https://github.com/ben-manes/caffeine/wiki)
 
