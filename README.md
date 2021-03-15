@@ -12,9 +12,9 @@
 7. HikariCp [wiki](https://github.com/brettwooldridge/HikariCP)
 8. easyExcel [github](https://github.com/alibaba/easyexcel)
 9. opencsv [wiki](http://opencsv.sourceforge.net/)
-10. JsonPath
+10. JsonPath [github](https://github.com/json-path/JsonPath)
 11. tink google加密组件 [github](https://github.com/google/tink)
-12.  validate 
+12.  validate [wiki](http://hibernate.org/validator/)
 13. jackson [wiki](https://github.com/FasterXML/jackson-databind)
 14. log4j2 [wiki](https://logging.apache.org/log4j/2.x/manual/index.html)
 
