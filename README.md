@@ -1,7 +1,12 @@
 ## java工具包的使用学习
 
-### Cache
-1. caffeine CaffeineCacheDemo [wiki](https://github.com/ben-manes/caffeine/wiki)
+### java
+1. regex 正则表达式[wiki](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html)
+2. time 时间库
+3. concurrent 并发库
+4. lambda表达式
+5. stream流处理
+6. IO/NIO
 
 ### 工具
 1. disruptor [wiki](https://lmax-exchange.github.io/disruptor/) [github](https://github.com/LMAX-Exchange/disruptor)
@@ -17,6 +22,8 @@
 12.  validate [wiki](http://hibernate.org/validator/)
 13. jackson [wiki](https://github.com/FasterXML/jackson-databind)
 14. log4j2 [wiki](https://logging.apache.org/log4j/2.x/manual/index.html)
+15. caffeine CaffeineCacheDemo [wiki](https://github.com/ben-manes/caffeine/wiki)
+
 
 ### Test
 1. junit5 [wiki](https://junit.org/junit5/docs/current/user-guide/)
