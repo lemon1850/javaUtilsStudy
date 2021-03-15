@@ -1,5 +1,8 @@
 package cn.catgod.jsonpath;
 
+import com.jayway.jsonpath.JsonPath;
+import org.junit.jupiter.api.Test;
+
 /**
  * @author weiqiang.lin
  * @version 1.0
@@ -7,6 +10,11 @@ package cn.catgod.jsonpath;
  */
 public class JsonPathDemo {
 
+    @Test
+    public void normal_use(){
+
+        Integer expensive = JsonPath.parse(jsonString).read("$.expensive");
+    }
     public final String jsonString = "{\n" +
             "    \"store\": {\n" +
             "        \"book\": [\n" +

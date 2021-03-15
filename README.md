@@ -1,7 +1,8 @@
 ## java工具包的使用学习
 
 ### java
-1. regex 正则表达式[wiki](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html)
+1. regex 正则表达式[wiki](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html) [demo](https://www.baeldung.com/regular-expressions-java) 
+    [正则测试网站](https://regex101.com/)
 2. time 时间库
 3. concurrent 并发库
 4. lambda表达式
@@ -12,7 +13,7 @@
 1. disruptor [wiki](https://lmax-exchange.github.io/disruptor/) [github](https://github.com/LMAX-Exchange/disruptor)
 2. lombok [wiki](https://projectlombok.org/)
 3. jedis [github](https://github.com/redis/jedis)
-5. redisson [github](https://github.com/redisson/redi)
+5. redisson [github](https://github.com/redisson/redisson/) [wiki](https://github.com/redisson/redisson/wiki/Table-of-Content)
 6. guava [wiki](https://github.com/google/guava/wiki)
 7. HikariCp [wiki](https://github.com/brettwooldridge/HikariCP)
 8. easyExcel [github](https://github.com/alibaba/easyexcel)
