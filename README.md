@@ -16,7 +16,7 @@
 5. redisson [github](https://github.com/redisson/redisson/) [wiki](https://github.com/redisson/redisson/wiki/Table-of-Content)
 6. guava [wiki](https://github.com/google/guava/wiki)
 7. HikariCp [wiki](https://github.com/brettwooldridge/HikariCP)
-8. easyExcel [github](https://github.com/alibaba/easyexcel)
+8. easyExcel [github](https://github.com/alibaba/easyexcel) [wiki](https://www.yuque.com/easyexcel/doc/easyexcel)
 9. opencsv [wiki](http://opencsv.sourceforge.net/)
 10. JsonPath [github&wiki](https://github.com/json-path/JsonPath) [demo](https://www.baeldung.com/guide-to-jayway-jsonpath)
 11. tink google加密组件 [github](https://github.com/google/tink)
