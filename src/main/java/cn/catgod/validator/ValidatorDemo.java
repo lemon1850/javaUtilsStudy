@@ -1,6 +1,7 @@
 package cn.catgod.validator;
 
 import lombok.extern.log4j.Log4j2;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import javax.validation.ConstraintViolation;
@@ -21,8 +22,9 @@ import java.util.Set;
 @Log4j2
 public class ValidatorDemo {
 
+    @DisplayName("validate Bean")
     @Test
-    public void nomarl_user(){
+    public void nomarl_validator_bean(){
 
         ValidatorFactory factory = Validation.buildDefaultValidatorFactory();
         Validator validator = factory.getValidator();
