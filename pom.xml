@@ -20,6 +20,7 @@
                     <target>11</target>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 
@@ -197,7 +198,6 @@
             <artifactId>jsonassert</artifactId>
             <version>1.5.0</version>
         </dependency>
-
 <!--        java性能压测工具-->
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
@@ -209,6 +209,15 @@
             <artifactId>jmh-generator-annprocess</artifactId>
             <version>1.19</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.43.Final</version>
+        </dependency>
+
     </dependencies>
+
 
 </project>

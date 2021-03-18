@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -23,6 +24,7 @@ import java.util.stream.Collectors;
 public class LombokDemo {
 
     @Test
+    @SneakyThrows
     public void cleanup_demo(){
         @Cleanup("close") InputStream is = this.getClass().getResourceAsStream("res.txt");
     }
@@ -42,7 +44,7 @@ public class LombokDemo {
     @SneakyThrows
     public String resourceAsString() {
         try (InputStream is = this.getClass().getResourceAsStream("sure_in_my_jar.txt")) {
-            BufferedReader br = new BufferedReader(new InputStreamReader(is, "UTF-8"));
+            BufferedReader br = new BufferedReader(new InputStreamReader(is, StandardCharsets.UTF_8));
             return br.lines().collect(Collectors.joining("\n"));
         }
     }
