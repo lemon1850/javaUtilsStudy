@@ -1,4 +1,4 @@
-package cn.catgod.netty.rpc;
+package cn.catgod.netty.base;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;

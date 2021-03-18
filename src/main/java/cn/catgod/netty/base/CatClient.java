@@ -1,4 +1,4 @@
-package cn.catgod.netty.rpc;
+package cn.catgod.netty.base;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelInitializer;

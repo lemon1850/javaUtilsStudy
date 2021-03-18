@@ -1,6 +1,5 @@
-package cn.catgod.netty.rpc.server;
+package cn.catgod.netty.base;
 
-import cn.catgod.netty.rpc.FirstServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
