@@ -188,6 +188,11 @@
             <artifactId>HikariCP</artifactId>
             <version>4.0.3</version>
         </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.6.1</version>
+        </dependency>
         <!--        apache common-->
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-text -->
         <dependency>
@@ -220,6 +225,11 @@
             <artifactId>commons-codec</artifactId>
             <version>1.15</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-compress</artifactId>
+            <version>1.20</version>
+        </dependency>
 
         <!--        test-->
         <dependency>
@@ -247,7 +257,23 @@
             <artifactId>jsonassert</artifactId>
             <version>1.5.0</version>
         </dependency>
-<!--        java性能压测工具-->
+        <!--        spring reactor-->
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-core</artifactId>
+            <version>3.4.4</version>
+        </dependency>
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-test</artifactId>
+            <version>3.4.4</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.1.3</version>
+        </dependency>
+        <!--        java性能压测工具-->
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
             <artifactId>jmh-core</artifactId>

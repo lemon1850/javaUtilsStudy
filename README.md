@@ -58,6 +58,11 @@
 17. apache commons
     1. commons-langs
     2. common-collections4
+    3. commons-compress
+    4. commons-codec
+    5. commons-io
+    6. commons-text
+    7. commons-beanutils
 18. nettydo
 19. okhttp
     - [github](https://github.com/square/okhttp/)
@@ -70,7 +75,14 @@
     - [多个对象映射到一个对象(或者更新)](https://www.baeldung.com/mapstruct-multiple-source-objects)
 21. spring reactor
     - [github](https://github.com/reactor/reactor-core)
-    - [wiki](https://projectreactor.io/docs/core/release/reference/index.html#getting)
+    - [wiki](https://projectreactor.io/docs)
+    - [reactivex规范官网](https://reactivex.io/)
+    - [入门demo](https://www.baeldung.com/reactor-core)
+    - [reactor-combine-streams demo todo](https://www.baeldung.com/reactor-combine-streams)
+    - [flux-sequences-reactor demo todo](https://www.baeldung.com/flux-sequences-reactor)
+22. hutools
+    - [wiki](https://www.hutool.cn/docs/#/)
+    - [github](https://github.com/dromara/hutool)
 ### Test
 1. junit5 
     - [wiki](https://junit.org/junit5/docs/current/user-guide/)
