@@ -10,6 +10,8 @@
 4. lambda表达式
 5. stream流处理
 6. IO/NIO
+7. 泛型
+    - [generics使用demo todo read](https://www.baeldung.com/java-generics)
 
 ### 工具
 1.  disruptor 
@@ -66,6 +68,9 @@
 18. nettydo
 19. okhttp
     - [github](https://github.com/square/okhttp/)
+21. retrofit
+    - [github](https://github.com/square/retrofit)
+    - [wiki](https://square.github.io/retrofit/)
 20. mapstruct
     - [wiki](https://mapstruct.org/)
     - [快速入门](https://www.baeldung.com/mapstruct)
