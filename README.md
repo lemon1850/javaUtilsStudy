@@ -13,6 +13,11 @@
 7. 泛型
     - [generics使用demo todo read](https://www.baeldung.com/java-generics)
 
+### spring系列
+1. spring
+    - [spring生态的文档](https://spring.io/projects/spring-framework#overview)
+    - [spring wiki](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
+    - [spring-boot wiki](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 ### 工具
 1.  disruptor 
     - [wiki](https://lmax-exchange.github.io/disruptor/) 
@@ -88,6 +93,10 @@
 22. hutools
     - [wiki](https://www.hutool.cn/docs/#/)
     - [github](https://github.com/dromara/hutool)
+1. ognl
+    - [wiki](http://commons.apache.org/proper/commons-ognl/language-guide.html)
+    - [demo todo](https://juejin.cn/post/6844904013859651597)
+    - [demo todo](https://blog.hhui.top/hexblog/2019/11/29/191129-Ognl-%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
 ### Test
 1. junit5 
     - [wiki](https://junit.org/junit5/docs/current/user-guide/)
