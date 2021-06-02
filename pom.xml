@@ -264,6 +264,11 @@
             <artifactId>jsonassert</artifactId>
             <version>1.5.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.awaitility</groupId>
+            <artifactId>awaitility</artifactId>
+            <version>4.1.0</version>
+        </dependency>
         <!--        spring reactor-->
         <dependency>
             <groupId>io.projectreactor</groupId>
@@ -297,6 +302,13 @@
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
             <version>4.1.43.Final</version>
+        </dependency>
+
+        <!--         解析binlog-->
+        <dependency>
+            <groupId>com.zendesk</groupId>
+            <artifactId>mysql-binlog-connector-java</artifactId>
+            <version>0.25.0</version>
         </dependency>
 
     </dependencies>
